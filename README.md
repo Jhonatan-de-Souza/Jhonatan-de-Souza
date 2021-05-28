@@ -1,16 +1,15 @@
-### Hi there 👋
+# **Opa 👋, Este é o Perfil do Jhonatan de Souza🖐**
 
-<!--
-**Jhonatan-de-Souza/Jhonatan-de-Souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Quem é o Jhonatan?
 
-Here are some ideas to get you started:
+### 🙋‍♂️ **[Fundador](https://www.devaprender.com) da Dev Aprender | Desde 2018**
+### 👨‍💻 **[Software Developer](https://www.linkedin.com/in/jhonatands/) | +6 anos**
+### <a href="https://www.youtube.com/devaprender"><img align="left" alt="YouTuber no canal | youtube.com/devaprender" width="20px" style='padding-right:10px' src="https://image.flaticon.com/icons/png/512/1384/1384060.png" /></a>**[YouTuber](youtube.com/devaprender) na [@DevAprender](youtube.com/devaprender) | +85k Inscritos**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **Conheça meu trabalho: 👇**
+* Instagram: https://www.instagram.com/devaprender
+* YouTube https://www.youtube.com/devaprender
+* Site Oficial https://www.devaprender.com
+
+# 📨 Contato comercial:
+- E-mail: jhonatan@devaprender.com
