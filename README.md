@@ -12,5 +12,5 @@
 * Web Site https://www.devaprender.com
 
 # 📨 Contato comercial | Commercial Contact:
-(não respondo dúvida de videos)
 - Email: jhonatan@devaprender.com
+(não respondo dúvida de videos)
