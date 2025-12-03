@@ -16,7 +16,7 @@
 - **Fundador da Dev Aprender** – Escola de Programação e Automação com +5000 alunos
 - **Software Developer** com +10 anos de experiência  
 - **YouTuber @DevAprender** +22 Milhões de visualizações no YouTube com foco em *Python, Automações e Carreira Tech*  
-- Criador de cursos completos que ajudam iniciantes a entrar no mercado de programação  
+- Criador de treinamentos completos que ajudam iniciantes a entrar no mercado de programação e trabalhar com automação Python  
 
 ---
 
