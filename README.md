@@ -7,6 +7,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCm63tB8wsKOVvxoU4iMpS2A?style=social)](https://youtube.com/c/DevAprender)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-@devaprender-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/devaprender/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@jhonatands-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatands)
 
 </div>
 
@@ -23,8 +24,10 @@
 ## 🌐 Onde você pode me encontrar
 - 📸 Instagram: https://www.instagram.com/devaprender/
 - ▶️ YouTube: https://www.youtube.com/devaprender
+- 💼 LinkedIn: https://www.linkedin.com/in/jhonatands
 - 🌍 Site oficial: https://www.devaprender.com
 - 👨‍💻 Orçamento de Sistemas/Bots: https://www.devaprender.com/orçamentos
+- 🔒 Treinamentos fechados: https://mestrepythonista.com/
 
 ---
 
