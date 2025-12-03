@@ -1,18 +1,33 @@
-# **Opa👋, Sou o Jhonatan de Souza | Hey, I'm Jhonatan de Souza🖐**
+<!-- Header Banner -->
+<div align="center">
 
-## Quem é o Jhonatan? | Who is Jhonatan?
+# 👋 Opa! Sou o **Jhonatan de Souza**  
+### 🇧🇷 Fundador da **Dev Aprender** •  Desenvolvedor de Software | Instrutor de Programação | Criador de Conteúdo | Apaixonado por IA e Automação
 
-### 🙋‍♂️ **[Fundador | Founder](https://www.devaprender.com) da Dev Aprender em 2018**
-### 👨‍💻 **[Software Developer](https://www.linkedin.com/in/jhonatands/) | +10 anos | years**
-### <a href="https://www.youtube.com/devaprender"><img align="left" alt="🔴" width="20px" style='padding-right:10px' src="https://cdn-icons-png.flaticon.com/512/174/174883.png" /></a>**[YouTuber](https://youtube.com/c/DevAprender/) [@DevAprender](https://youtube.com/c/DevAprender/)**  
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCm63tB8wsKOVvxoU4iMpS2A?style=social)
-### <a href="https://www.instagram.com/devaprender"><img align="left" alt="🔴" width="20px" style='padding-right:10px' src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" /></a>**[Instagram](https://instagram.com/devaprender) [@DevAprender](https://instagram.com/devaprender) | +35k Seguidores | followers**
 
-## **Conheça meu trabalho | Check out my work 👇**
-* Instagram: https://www.instagram.com/devaprender  
-* YouTube: https://www.youtube.com/devaprender  
-* Web Site: https://www.devaprender.com  
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCm63tB8wsKOVvxoU4iMpS2A?style=social)](https://youtube.com/c/DevAprender)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-@devaprender-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/devaprender/)
 
-# 📨 Contato comercial | Commercial Contact:
-- E-mail: jhonatan@devaprender.com  
-(não respondo dúvida de videos)
+</div>
+
+---
+
+## 👨‍💻 Quem sou eu?
+- **Fundador da Dev Aprender** – Escola de Programação e Automação com +5000 alunos
+- **Software Developer** com +10 anos de experiência  
+- **YouTuber @DevAprender** +22 Milhões de visualizações no YouTube com foco em *Python, Automações e Carreira Tech*  
+- Criador de cursos completos que ajudam iniciantes a entrar no mercado de programação  
+
+---
+
+## 🌐 Onde você pode me encontrar
+- 📸 Instagram: https://www.instagram.com/devaprender/
+- ▶️ YouTube: https://www.youtube.com/devaprender
+- 🌍 Site oficial: https://www.devaprender.com
+- 👨‍💻 Orçamento de Sistemas/Bots: https://www.devaprender.com/orçamentos
+
+---
+
+## 📨 Contato Comercial
+**E-mail:** jhonatan@devaprender.com  
+*(não respondo dúvidas de vídeos)*
