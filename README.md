@@ -5,7 +5,7 @@
 ### 🙋‍♂️ **[Fundador | Founder](https://www.devaprender.com) da Dev Aprender em 2018**
 ### 👨‍💻 **[Software Developer](https://www.linkedin.com/in/jhonatands/) | +10 anos | years**
 ### <a href="https://www.youtube.com/devaprender"><img align="left" alt="🔴" width="20px" style='padding-right:10px' src="https://cdn-icons-png.flaticon.com/512/174/174883.png" /></a>**[YouTuber](https://youtube.com/c/DevAprender/) [@DevAprender](https://youtube.com/c/DevAprender/)**  
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCj_IVp4n2tIO6d0FQF_kzWw?style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCm63tB8wsKOVvxoU4iMpS2A?style=social)
 ### <a href="https://www.instagram.com/devaprender"><img align="left" alt="🔴" width="20px" style='padding-right:10px' src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" /></a>**[Instagram](https://instagram.com/devaprender) [@DevAprender](https://instagram.com/devaprender) | +35k Seguidores | followers**
 
 ## **Conheça meu trabalho | Check out my work 👇**
