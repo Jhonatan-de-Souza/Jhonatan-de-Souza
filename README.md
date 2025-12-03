@@ -2,7 +2,7 @@
 <div align="center">
 
 # 👋 Opa! Sou o **Jhonatan de Souza**  
-### 🇧🇷 Fundador da **Dev Aprender** •  Desenvolvedor de Software | Instrutor de Programação | Criador de Conteúdo | Apaixonado por IA e Automação
+### Fundador da **Dev Aprender** •  Desenvolvedor de Software | Instrutor de Programação | Criador de Conteúdo | Apaixonado por IA e Automação
 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCm63tB8wsKOVvxoU4iMpS2A?style=social)](https://youtube.com/c/DevAprender)
