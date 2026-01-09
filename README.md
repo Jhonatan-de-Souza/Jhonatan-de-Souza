@@ -1,7 +1,7 @@
 <!-- Header Banner -->
 <div align="center">
 
-# 👋 Opa! Hi! I'm **Jhonatan de Souza**  
+# **Jhonatan de Souza**  
 ### Fundador da **Dev Aprender** • Founder of **Dev Aprender**  
 Desenvolvedor de Software | Software Developer  
 Instrutor de Programação | Programming Instructor  
