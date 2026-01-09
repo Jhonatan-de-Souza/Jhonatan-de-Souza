@@ -48,5 +48,3 @@ Apaixonado por IA e Automação | AI & Automation Enthusiast
 
 ## 📨 Contato Comercial | Business Contact
 **E-mail:** jhonatan@devaprender.com  
-*(PT: não respondo dúvidas de vídeos)*  
-*(EN: I don’t answer video-related questions via email)*
