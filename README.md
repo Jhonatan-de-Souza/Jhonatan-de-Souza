@@ -1,9 +1,12 @@
 <!-- Header Banner -->
 <div align="center">
 
-# 👋 Opa! Sou o **Jhonatan de Souza**  
-### Fundador da **Dev Aprender** •  Desenvolvedor de Software | Instrutor de Programação | Criador de Conteúdo | Apaixonado por IA e Automação
-
+# 👋 Opa! Hi! I'm **Jhonatan de Souza**  
+### Fundador da **Dev Aprender** • Founder of **Dev Aprender**  
+Desenvolvedor de Software | Software Developer  
+Instrutor de Programação | Programming Instructor  
+Criador de Conteúdo | Content Creator  
+Apaixonado por IA e Automação | AI & Automation Enthusiast
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCm63tB8wsKOVvxoU4iMpS2A?style=social)](https://youtube.com/c/DevAprender)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-@devaprender-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/devaprender/)
@@ -13,24 +16,37 @@
 
 ---
 
-## 👨‍💻 Quem sou eu?
-- **Fundador da Dev Aprender** – Escola de Programação e Automação com +5000 alunos
-- **Software Developer** com +10 anos de experiência  
-- **YouTuber @DevAprender** +22 Milhões de visualizações no YouTube com foco em *Python, Automações e Carreira Tech*  
-- Criador de treinamentos completos que ajudam iniciantes a entrar no mercado de programação e trabalhar com automação Python  
+## 👨‍💻 Quem sou eu | About me
+
+**PT 🇧🇷**
+- Fundador da **Dev Aprender** — Escola de Programação e Automação com +5.000 alunos  
+- Desenvolvedor de Software com +10 anos de experiência  
+- Criador do canal **@DevAprender** no YouTube, com +22 milhões de visualizações  
+- Foco em **Python, Automações, IA e Carreira Tech**  
+- Crio treinamentos práticos para ajudar iniciantes a entrar no mercado de programação  
+
+**EN 🇺🇸**
+- Founder of **Dev Aprender** — Programming & Automation school with 5,000+ students  
+- Software Developer with 10+ years of experience  
+- Creator of the **@DevAprender** YouTube channel with 22M+ views  
+- Focused on **Python, Automation, AI, and Tech Careers**  
+- I build practical training programs to help beginners break into the tech industry  
 
 ---
 
-## 🌐 Onde você pode me encontrar
+## 🌐 Onde me encontrar | Where to find me
 - 📸 Instagram: https://www.instagram.com/devaprender/
 - ▶️ YouTube: https://www.youtube.com/devaprender
 - 💼 LinkedIn: https://www.linkedin.com/in/jhonatands
-- 🌍 Site oficial: https://www.devaprender.com
-- 👨‍💻 Orçamento de Sistemas/Bots: https://www.devaprender.com/orçamentos
-- 🔒 Treinamentos fechados: https://mestrepythonista.com/
+- 🌍 Website: https://www.devaprender.com
+- 👨‍💻 Orçamento de Sistemas/Bots | Software/Bot Quotes:  
+  https://www.devaprender.com/orçamentos
+- 🔒 Treinamentos fechados | Private Trainings:  
+  https://mestrepythonista.com/
 
 ---
 
-## 📨 Contato Comercial
+## 📨 Contato Comercial | Business Contact
 **E-mail:** jhonatan@devaprender.com  
-*(não respondo dúvidas de vídeos)*
+*(PT: não respondo dúvidas de vídeos)*  
+*(EN: I don’t answer video-related questions via email)*
