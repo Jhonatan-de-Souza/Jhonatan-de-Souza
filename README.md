@@ -20,14 +20,14 @@ Apaixonado por IA e Automação | AI & Automation Enthusiast
 
 **PT 🇧🇷**
 - Fundador da **Dev Aprender** — Escola de Programação e Automação com +5.000 alunos  
-- Desenvolvedor de Software com +10 anos de experiência  
+- Desenvolvedor de Software com +8 anos de experiência  
 - Criador do canal **@DevAprender** no YouTube, com +22 milhões de visualizações  
 - Foco em **Python, Automações, IA e Carreira Tech**  
 - Crio treinamentos práticos para ajudar iniciantes a entrar no mercado de programação  
 
 **EN 🇺🇸**
 - Founder of **Dev Aprender** — Programming & Automation school with 5,000+ students  
-- Software Developer with 10+ years of experience  
+- Software Developer with 8+ years of experience  
 - Creator of the **@DevAprender** YouTube channel with 22M+ views  
 - Focused on **Python, Automation, AI, and Tech Careers**  
 - I build practical training programs to help beginners break into the tech industry  
