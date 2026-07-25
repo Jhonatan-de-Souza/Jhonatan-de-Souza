@@ -42,7 +42,7 @@ Apaixonado por IA e Automação | AI & Automation Enthusiast
 - 👨‍💻 Orçamento de Sistemas/Bots | Software/Bot Quotes:  
   https://www.devaprender.com/orçamentos
 - 🔒 Treinamentos fechados | Private Trainings:  
-  https://mestrepythonista.com/
+  https://comunidade.devaprender.com
 
 ---
 
