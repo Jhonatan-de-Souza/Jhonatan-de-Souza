@@ -1,0 +1,63 @@
+name: Update YouTube stats
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch channel statistics
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          CHANNEL_ID: UCm63tB8wsKOVvxoU4iMpS2A
+        run: |
+          python3 - <<'PY'
+          import json, os, urllib.request
+
+          req = urllib.request.Request(
+              "https://www.googleapis.com/youtube/v3/channels"
+              f"?part=statistics&id={os.environ['CHANNEL_ID']}",
+              headers={"X-Goog-Api-Key": os.environ["YOUTUBE_API_KEY"]},
+          )
+          stats = json.load(urllib.request.urlopen(req))["items"][0]["statistics"]
+
+          def short(n):
+              n = int(n)
+              for div, suffix in ((1_000_000_000, "B"), (1_000_000, "M"), (1_000, "K")):
+                  if n >= div:
+                      return f"{n / div:.1f}".rstrip("0").rstrip(".") + suffix
+              return str(n)
+
+          badges = {
+              "youtube-subscribers.json": ("YouTube", f"{short(stats['subscriberCount'])} subscribers"),
+              "youtube-views.json": ("Views", short(stats["viewCount"])),
+          }
+          for name, (label, message) in badges.items():
+              with open(f".github/badges/{name}", "w") as f:
+                  json.dump({
+                      "schemaVersion": 1,
+                      "label": label,
+                      "message": message,
+                      "color": "FF0000",
+                      "namedLogo": "youtube",
+                      "logoColor": "white",
+                  }, f, indent=2)
+          PY
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/badges
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update YouTube stats"
+            git push
+          fi
