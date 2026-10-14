@@ -9,7 +9,7 @@ Criador de Conteúdo | Content Creator
 Apaixonado por IA e Automação | AI & Automation Enthusiast
 
 [![YouTube Subscribers](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FJhonatan-de-Souza%2FJhonatan-de-Souza%2Fmain%2F.github%2Fbadges%2Fyoutube-subscribers.json)](https://www.youtube.com/@DevAprender)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-@devaprender-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/devaprender/)
+[![Instagram Followers](https://img.shields.io/badge/Instagram-33.6k%20followers-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/devaprender/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@jhonatands-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatands)
 
 </div>
