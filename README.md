@@ -20,5 +20,5 @@ Fundador da **Dev Aprender** · Desenvolvedor de Software · Instrutor de Progra
 - 🤖 Foco em **Python, automação, IA e carreira tech**
 
 ### 📫 Contato
-- 🌍 Site e orçamento de sistemas/bots: https://www.devaprender.com
-- ✉️ jhonatan@devaprender.com
+- 🌍 Site e orçamento de sistemas/automações: https://www.devaprender.com
+- 🤝 Parcerias e contato comercial: jhonatan@devaprender.com

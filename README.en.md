@@ -20,5 +20,5 @@ Founder of **Dev Aprender** · Software Developer · Programming Instructor
 - 🤖 Focused on **Python, automation, AI and tech careers**
 
 ### 📫 Contact
-- 🌍 Website and software/bot quotes: https://www.devaprender.com
-- ✉️ jhonatan@devaprender.com
+- 🌍 Website and software/automation quotes: https://www.devaprender.com
+- 🤝 Partnerships and business inquiries: jhonatan@devaprender.com
